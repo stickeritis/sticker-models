@@ -3,3 +3,8 @@ de-structgram-20190426-opq:
   lang: de
   type: word
   sha256: 143baf20edd74879c4ce86712c5ceaa7edda07c53724a5f538017697f55de52c
+de-structgram-tags-ud-20190629:
+  filename: de-structgram-tags-ud-20190629.fifu
+  lang: de
+  type: postag
+  sha256: 524438144fa62760a356c4ec51767da29880068154e6a3fa53366d023c81f4b5
