@@ -3,3 +3,9 @@ de-deps-ud-small-20190923:
   lang: de
   tagset: ud
   sha256: ecd6e1f3d1491cfc65bc8eef32fa20b1b4297142325ee4916b966fda6a2f80e0
+
+de-deps-ud-large-20190926:
+  filename: de-deps-ud-large-20190926.tar.gz
+  lang: de
+  tagset: ud
+  sha256: 825ba4274b4fb2f1f3016fe79d4ad564c079ee0def4fbff018a89476e7064f96
