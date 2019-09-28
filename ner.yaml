@@ -1,0 +1,5 @@
+de-ner-ud-small-20190928:
+  filename: de-ner-ud-small-20190928.tar.gz
+  lang: de
+  tagset: tuebadz
+  sha256: 4360b0841a79ac4177729f99d0062cc0211efe09d93d5979ade92ad857f06a05
