@@ -3,3 +3,8 @@ de-pos-ud-20190821:
   lang: de
   tagset: ud-stts
   sha256: 7b6b34466a49eabe79c395a69f22628bde0541cff10567bfd12d50645b8d7098
+nl-pos-ud-20190822:
+  filename: nl-pos-ud-20190822.tar.gz
+  lang: nl
+  tagset: ud-custom
+  sha256: 37957658f3b0e2fce40c2a1d2b9ea9044bc68fc140794259ab2c407deb048a7b
