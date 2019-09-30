@@ -13,3 +13,8 @@ nl-structgram-20190623-opq:
   lang: nl
   type: word
   sha256: 7d7d7b6a431cc03302439a75bc04b6c8afdfe1c36cca19ab3c1e25c8147adbaf
+nl-structgram-tags-20190623:
+  filename: nl-structgram-tags-20190623.fifu
+  lang: nl
+  type: postag
+  sha256: 820f8159a43275993e74471b46fce219eaaeb4b8861f20c4b845692e12fd5246
