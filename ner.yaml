@@ -3,3 +3,8 @@ de-ner-ud-small-20190928:
   lang: de
   tagset: tuebadz
   sha256: 4360b0841a79ac4177729f99d0062cc0211efe09d93d5979ade92ad857f06a05
+nl-ner-ud-small-20191003:
+  filename: nl-ner-ud-small-20191003.tar.gz
+  lang: nl
+  tagset: sonar1
+  sha256: 2c790848511a538a814c432bd089adf15589e5c85febc3e8fee68e2cea616bd5
